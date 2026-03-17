@@ -1,5 +1,6 @@
 # Guacamole recipe
 
+smile first!
 
 ## Ingredients
 
